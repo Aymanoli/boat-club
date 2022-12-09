@@ -94,7 +94,7 @@ body {
     color: whitesmoke;
     position: relative;
     width: 100%;
-    background: url(../images/futter.jpg) center center no-repeat;
+    background: url(images/futter.jpg) center center no-repeat;
     background-size: cover;
     overflow: hidden;
   }
