@@ -1,0 +1,122 @@
+body {
+    margin-top: 56px;
+  }
+  
+  .myK-slider {
+    width: 80%;
+    margin: auto;
+    /* background-color: red; */
+  }
+  .myK-sliders {
+    height: 33.5em;
+  }
+  .containerss {
+    margin-top: 60px;
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+  }
+  /* feee luxary yacht */
+  .luxary-yacht {
+    color: #e77c40;
+  }
+  .price {
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .prices {
+    text-align: center;
+  }
+  small {
+    color: blue;
+  }
+  
+  /* Happy Client */
+  .clients-body {
+    padding: 40px 35px;
+  }
+  .specialText {
+    color: #e77c40;
+  }
+  .clients-content div {
+    margin-top: 15px;
+  }
+  .clients-content div:first-child {
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  .clientComments {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #6c6c6c;
+  }
+  .ratingStar {
+    font-size: 1.2rem;
+    color: #e77c40;
+  }
+  .clientsName {
+    font-weight: 500;
+    color: #23a6f0;
+  }
+  
+  /* FAQ section */
+  .faq-img {
+    width: 456px;
+    height: auto;
+  }
+  
+  .faq-accordion > div:nth-child(n) {
+    border: 1px solid #d5e5fb;
+    margin-bottom: 1.3rem;
+  }
+  .accordion-button:not(.collapsed) {
+    color: black;
+    background: none;
+    border-bottom: none;
+    box-shadow: none;
+  }
+  
+  /* Bike Servicing (Extra Section) */
+  .bike-servicing::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* background-color: rgba(0, 0, 0, 0.815); */
+  }
+  .bike-servicing {
+    position: relative;
+    color: whitesmoke;
+    position: relative;
+    width: 100%;
+    background: url(../images/futter.jpg) center center no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+  .bike-servicing-content {
+    position: relative;
+    max-width: 700px;
+    margin: auto;
+    padding: 50px 2px;
+  }
+  .myBtn{
+    text-decoration: none;
+    color:white;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #0b0d17;
+    color: whitesmoke;
+  }
+  .app-download-poster img {
+    width: 9rem;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  

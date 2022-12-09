@@ -1,0 +1,28 @@
+body {
+    margin-top: 56px;
+  }
+  .firstContent:hover{
+    background-color: #D6EAF8;
+    box-shadow: 5px 5px;
+  }
+  .secondContent:hover{
+    background-color: #D5DBDB;
+    box-shadow: 5px 5px;
+  }
+  .thirdContent:hover{
+    background-color: #D4EFDF;
+    box-shadow: 5px 5px;
+  }
+  .fourthContent:hover{
+    background-color: #D7BDE2;
+    box-shadow: 5px 5px;
+  }
+  .fiveContent:hover{
+    background-color: #FCF3CF;
+    box-shadow: 5px 5px;
+  }
+  .sixContent:hover{
+    background-color: #FAD7A0;
+    box-shadow: 5px 5px;
+  }
+  
